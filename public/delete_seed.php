@@ -49,7 +49,7 @@
 <body>
     <div class="container">
         <header>
-            <h1>🌱 Community Seed Bank Management</h1>
+            <h1>Community Seed Bank Management</h1>
             <nav>
                 <a href="index.php" class="btn btn-primary">All Seeds</a>
                 <a href="create_seed.php" class="btn btn-success">Add New Seed</a>
@@ -68,7 +68,7 @@
 
             <div class="delete-confirmation">
                 <div class="alert alert-warning">
-                    <h3>⚠️ Are you sure you want to delete this seed?</h3>
+                    <h3>Are you sure you want to delete this seed?</h3>
                     <p>This action cannot be undone. All associated transactions will also be deleted.</p>
                 </div>
 
@@ -105,7 +105,7 @@
         </main>
 
         <footer>
-            <p>&copy; 2024 Community Seed Bank Management System</p>
+            <p>&copy; 2025 Community Seed Bank Management System</p>
         </footer>
     </div>
 </body>

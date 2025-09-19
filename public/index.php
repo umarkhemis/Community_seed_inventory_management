@@ -61,7 +61,7 @@
         </main>
 
         <footer>
-            <p>&copy; 2024 Community Seed Bank Management System</p>
+            <p>&copy; 2025 Community Seed Bank Management System</p>
         </footer>
     </div>
 </body>

@@ -47,7 +47,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <body>
     <div class="container">
         <header>
-            <h1>🌱 Community Seed Bank Management</h1>
+            <h1> Community Seed Bank Management</h1>
             <nav>
                 <a href="index.php" class="btn btn-primary">All Seeds</a>
                 <a href="create_seed.php" class="btn btn-success">Add New Seed</a>
@@ -145,7 +145,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         </main>
 
         <footer>
-            <p>&copy; 2024 Community Seed Bank Management System</p>
+            <p>&copy; 2025 Community Seed Bank Management System</p>
         </footer>
     </div>
 </body>
